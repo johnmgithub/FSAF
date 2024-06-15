@@ -12,4 +12,4 @@ The port does not include any audio interface handling. See the main method in F
 Extended versions of Jama and Jampack are used for Matrix handling. 
 The Parallel class of Dave Hale's [Mines Java Toolkit](https://inside.mines.edu/~dhale/jtk/index.html) is used for parallel execution of the filter band processing.
 
-There is a complete implementation of measurement using FSAF in [REW](www.roomeqwizard.com), versions V5.40 beta 32 onwards.
+There is a complete implementation of measurement using FSAF in [Room EQ Wizard](www.roomeqwizard.com), versions V5.40 beta 32 onwards.
